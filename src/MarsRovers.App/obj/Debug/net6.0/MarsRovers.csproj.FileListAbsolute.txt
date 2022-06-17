@@ -1,0 +1,107 @@
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\bin\Debug\net6.0\MarsRovers.exe
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\bin\Debug\net6.0\MarsRovers.deps.json
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\bin\Debug\net6.0\MarsRovers.runtimeconfig.json
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\bin\Debug\net6.0\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\bin\Debug\net6.0\MarsRovers.pdb
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.csproj.AssemblyReference.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.AssemblyInfoInputs.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.AssemblyInfo.cs
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.csproj.CoreCompileInputs.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\ref\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.pdb
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\MarsRovers.genruntimeconfig.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\obj\Debug\net6.0\refint\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.exe
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.deps.json
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.runtimeconfig.json
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.pdb
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.AssemblyReference.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.AssemblyInfoInputs.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.AssemblyInfo.cs
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.CoreCompileInputs.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.pdb
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.genruntimeconfig.cache
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\ref\MarsRovers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MediatR.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\StructureMap.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\bin\Debug\net6.0\StructureMap.Microsoft.DependencyInjection.dll
+E:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.CopyComplete
+e:\Coding\My Projects\Hepsiburada\Case_Study\MarsRovers\src\MarsRovers.App\obj\Debug\net6.0\refint\MarsRovers.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.exe
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.deps.json
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.runtimeconfig.json
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MarsRovers.pdb
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MediatR.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MediatR.Contracts.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\StructureMap.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\bin\Debug\net6.0\StructureMap.Microsoft.DependencyInjection.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.AssemblyReference.cache
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.AssemblyInfoInputs.cache
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.AssemblyInfo.cs
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.CoreCompileInputs.cache
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.csproj.CopyComplete
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\refint\MarsRovers.dll
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.pdb
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\MarsRovers.genruntimeconfig.cache
+c:\Users\Elongef\Desktop\New folder (2)\MarsRover\src\MarsRovers.App\obj\Debug\net6.0\ref\MarsRovers.dll
